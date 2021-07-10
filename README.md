@@ -44,4 +44,15 @@ Through each of these methods, I split my data into training and testing dataset
 
 ![undersampling](https://github.com/mahmoodsayedi/NewAssignment/blob/main/visualizations/undersampling.png)
 
+### SMOTEENN Sampling
+
+* Accuracy Score: 68.1%
+* Precision High Risk: 1%
+* Precision Low Risk: 100%
+* Recall High Risk: 76%
+* Recall Low Risk: 60%
+
+![SMOTEENN](https://github.com/mahmoodsayedi/NewAssignment/blob/main/visualizations/SMOTEENN.png)
+
+
 
