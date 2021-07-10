@@ -29,7 +29,7 @@ Through each of these methods, I split my data into training and testing dataset
 * Accuracy Score: 66.2%
 * Precision High Risk: 1%
 * Precision Low Risk: 100%
-* Recall High Risk: 66%
+* Recall High Risk: 66% 
 * Recall Low Risk: 66%
 
 ![SMOTE](https://github.com/mahmoodsayedi/NewAssignment/blob/main/visualizations/SMOTE.png)
