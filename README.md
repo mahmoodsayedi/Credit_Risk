@@ -21,7 +21,7 @@ Through each of these methods, I split my data into training and testing dataset
 * Precision Low Risk: 100%
 * Recall High Risk: 72%
 * Recall Low Risk: 63%
-
+ 
 ![oversampling](https://github.com/mahmoodsayedi/NewAssignment/blob/main/visualizations/oversampling.png)
 
 ### SMOTE Oversampling
